@@ -46,6 +46,8 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 4-bit Count Down Counter
 
+### PROCEDURE 
+write te steps involved
 
 ### PROGRAM 
 /*
