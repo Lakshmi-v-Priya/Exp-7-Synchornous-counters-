@@ -45,27 +45,44 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 
 4-bit Count Down Counter
-### Procedure
-/* write all the steps invloved */
-
 
 
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: LAKSHMI PRIYA V
+RegisterNumber:  212223220049
 */
 
 
 
 
+UP COUNTER :
+
+![Screenshot 2023-12-28 215019](https://github.com/Lakshmi-v-Priya/Exp-7-Synchornous-counters-/assets/151720706/1ab465ae-15f2-4804-88c9-52f12ef460b2)
 
 
-### RTL LOGIC UP COUNTER AND DOWN COUNTER  
+DOWN COUNTER :
+
+![Screenshot 2023-12-28 215207](https://github.com/Lakshmi-v-Priya/Exp-7-Synchornous-counters-/assets/151720706/d7e24e48-9041-4471-84d3-57ae14275ee8)
 
 
 
+
+
+
+
+
+### RTL DIAGRAM
+
+UP COUNTER :
+
+![up diagram](https://github.com/Lakshmi-v-Priya/Exp-7-Synchornous-counters-/assets/151720706/c4815825-3ccf-4026-a20f-e4ee7111f30d)
+
+
+DOWN COUNTER :
+
+![Screenshot 2023-12-28 215721](https://github.com/Lakshmi-v-Priya/Exp-7-Synchornous-counters-/assets/151720706/0b7a7d32-39bb-42bf-9d54-fd6e948a4d4f)
 
 
 
@@ -75,14 +92,29 @@ RegisterNumber:
 ### TIMING DIGRAMS FOR COUNTER  
 
 
+UP COUNTER :
+
+![up wave](https://github.com/Lakshmi-v-Priya/Exp-7-Synchornous-counters-/assets/151720706/d803f10f-5913-4c42-968b-90955103e4e1)
+
+DOWN COUNTER :
+
+![down wave](https://github.com/Lakshmi-v-Priya/Exp-7-Synchornous-counters-/assets/151720706/5fcb1b61-00c9-49bf-b906-21d6d4d6002b)
+
 
 
 
 ### TRUTH TABLE 
 
+UP COUNTER :
+
+![Screenshot 2023-12-28 220234](https://github.com/Lakshmi-v-Priya/Exp-7-Synchornous-counters-/assets/151720706/c588b66e-527e-41a9-aa94-82f07ecb8b7a)
 
 
+DOWN COUNTER :
 
+![Screenshot 2023-12-28 220331](https://github.com/Lakshmi-v-Priya/Exp-7-Synchornous-counters-/assets/151720706/1de44c38-53c5-4ba7-b362-9b5e2beb29ae)
 
 
 ### RESULTS 
+
+Thus the Program executed Successfully
